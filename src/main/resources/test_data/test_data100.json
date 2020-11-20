@@ -1,0 +1,1999 @@
+{
+  "tradeId": "478385968",
+  "orderList": [
+    {
+      "orderCode": "0",
+      "unloadingSequence": 0,
+      "goodList": [
+        {
+          "materialCode": "CG0LL0007",
+          "setCode": "",
+          "qty": 11,
+          "length": 680.0,
+          "width": 750.0,
+          "height": 940.0,
+          "weight": 0.4794,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLR00B",
+          "setCode": "",
+          "qty": 13,
+          "length": 600.0,
+          "width": 660.0,
+          "height": 920.0,
+          "weight": 0.36432,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ0007004",
+          "setCode": "",
+          "qty": 10,
+          "length": 760.0,
+          "width": 620.0,
+          "height": 1770.0,
+          "weight": 0.834024,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "5",
+              "isBear": false,
+              "bearLevel": "null",
+              "isStack": false,
+              "stackLevel": "null"
+            }
+          ]
+        },
+        {
+          "materialCode": "AAA2H2U0L",
+          "setCode": "",
+          "qty": 3,
+          "length": 270.0,
+          "width": 940.0,
+          "height": 350.0,
+          "weight": 0.08883,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ000N001",
+          "setCode": "",
+          "qty": 8,
+          "length": 550.0,
+          "width": 680.0,
+          "height": 1270.0,
+          "weight": 0.47498,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "5",
+              "isBear": false,
+              "bearLevel": "null",
+              "isStack": false,
+              "stackLevel": "null"
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ000E003",
+          "setCode": "",
+          "qty": 4,
+          "length": 780.0,
+          "width": 650.0,
+          "height": 1830.0,
+          "weight": 0.92781,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "AAA351E2U",
+          "setCode": "",
+          "qty": 12,
+          "length": 410.0,
+          "width": 940.0,
+          "height": 760.0,
+          "weight": 0.292904,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLW00B",
+          "setCode": "",
+          "qty": 6,
+          "length": 630.0,
+          "width": 590.0,
+          "height": 1050.0,
+          "weight": 0.390285,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "TD0028160",
+          "setCode": "",
+          "qty": 10,
+          "length": 280.0,
+          "width": 380.0,
+          "height": 490.0,
+          "weight": 0.052136,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "AL00ME003",
+          "setCode": "",
+          "qty": 16,
+          "length": 400.0,
+          "width": 940.0,
+          "height": 600.0,
+          "weight": 0.2256,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 8,
+              "isStack": true,
+              "stackLevel": 6
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 8,
+              "isStack": true,
+              "stackLevel": 6
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ0002003",
+          "setCode": "",
+          "qty": 11,
+          "length": 760.0,
+          "width": 610.0,
+          "height": 1700.0,
+          "weight": 0.78812,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "5",
+              "isBear": false,
+              "bearLevel": "null",
+              "isStack": false,
+              "stackLevel": "null"
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LL7002",
+          "setCode": "",
+          "qty": 8,
+          "length": 580.0,
+          "width": 660.0,
+          "height": 1040.0,
+          "weight": 0.398112,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLZ004",
+          "setCode": "",
+          "qty": 2,
+          "length": 660.0,
+          "width": 580.0,
+          "height": 1050.0,
+          "weight": 0.40194,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orderCode": "1",
+      "unloadingSequence": 1,
+      "goodList": [
+        {
+          "materialCode": "BQ000N004",
+          "setCode": "",
+          "qty": 10,
+          "length": 1160.0,
+          "width": 755.0,
+          "height": 870.0,
+          "weight": 0.761946,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 10,
+              "isStack": true,
+              "stackLevel": 3
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 10,
+              "isStack": true,
+              "stackLevel": 3
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLM003",
+          "setCode": "",
+          "qty": 5,
+          "length": 650.0,
+          "width": 680.0,
+          "height": 1100.0,
+          "weight": 0.4862,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLZ008",
+          "setCode": "",
+          "qty": 9,
+          "length": 660.0,
+          "width": 670.0,
+          "height": 1080.0,
+          "weight": 0.477576,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "TD0028294",
+          "setCode": "",
+          "qty": 8,
+          "length": 100.0,
+          "width": 100.0,
+          "height": 100.0,
+          "weight": 0.001,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 10,
+              "isStack": true,
+              "stackLevel": 3
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 10,
+              "isStack": true,
+              "stackLevel": 3
+            }
+          ]
+        },
+        {
+          "materialCode": "AAA351E2U",
+          "setCode": "",
+          "qty": 19,
+          "length": 410.0,
+          "width": 940.0,
+          "height": 760.0,
+          "weight": 0.292904,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            }
+          ]
+        },
+        {
+          "materialCode": "AA9ZB1E29",
+          "setCode": "",
+          "qty": 10,
+          "length": 980.0,
+          "width": 980.0,
+          "height": 980.0,
+          "weight": 0.941192,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLW00B",
+          "setCode": "",
+          "qty": 2,
+          "length": 630.0,
+          "width": 590.0,
+          "height": 1050.0,
+          "weight": 0.390285,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLZ006",
+          "setCode": "",
+          "qty": 13,
+          "length": 580.0,
+          "width": 590.0,
+          "height": 1000.0,
+          "weight": 0.3422,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "TD0028219",
+          "setCode": "",
+          "qty": 7,
+          "length": 365.0,
+          "width": 270.0,
+          "height": 250.0,
+          "weight": 0.0246375,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 2,
+              "isStack": true,
+              "stackLevel": 10
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 2,
+              "isStack": true,
+              "stackLevel": 10
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLL004",
+          "setCode": "",
+          "qty": 11,
+          "length": 670.0,
+          "width": 660.0,
+          "height": 875.0,
+          "weight": 0.386925,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ000F003",
+          "setCode": "",
+          "qty": 17,
+          "length": 780.0,
+          "width": 650.0,
+          "height": 1830.0,
+          "weight": 0.92781,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "TD0028165",
+          "setCode": "",
+          "qty": 10,
+          "length": 540.0,
+          "width": 320.0,
+          "height": 410.0,
+          "weight": 0.070848,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "AL00MC005",
+          "setCode": "",
+          "qty": 18,
+          "length": 870.0,
+          "width": 335.0,
+          "height": 260.0,
+          "weight": 0.075777,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            }
+          ]
+        },
+        {
+          "materialCode": "TD0028239",
+          "setCode": "",
+          "qty": 5,
+          "length": 440.0,
+          "width": 440.0,
+          "height": 670.0,
+          "weight": 0.129712,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 2,
+              "isStack": true,
+              "stackLevel": 10
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 2,
+              "isStack": true,
+              "stackLevel": 10
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ000A004",
+          "setCode": "",
+          "qty": 14,
+          "length": 790.0,
+          "width": 670.0,
+          "height": 1740.0,
+          "weight": 0.920982,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "B70TW0E9E",
+          "setCode": "",
+          "qty": 18,
+          "length": 790.0,
+          "width": 780.0,
+          "height": 1980.0,
+          "weight": 1.220076,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "TD0028146",
+          "setCode": "",
+          "qty": 9,
+          "length": 440.0,
+          "width": 550.0,
+          "height": 340.0,
+          "weight": 0.08228,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 2,
+              "isStack": true,
+              "stackLevel": 10
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 2,
+              "isStack": true,
+              "stackLevel": 10
+            }
+          ]
+        },
+        {
+          "materialCode": "AA6ZR0E2W",
+          "setCode": "",
+          "qty": 3,
+          "length": 500.0,
+          "width": 1130.0,
+          "height": 950.0,
+          "weight": 0.53675,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            }
+          ]
+        },
+        {
+          "materialCode": "AAA2U3E4U",
+          "setCode": "",
+          "qty": 12,
+          "length": 1030.0,
+          "width": 470.0,
+          "height": 820.0,
+          "weight": 0.396962,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            }
+          ]
+        },
+        {
+          "materialCode": "BL06N0E8Z",
+          "setCode": "",
+          "qty": 18,
+          "length": 590.0,
+          "width": 700.0,
+          "height": 1450.0,
+          "weight": 0.59885,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "5",
+              "isBear": false,
+              "bearLevel": "null",
+              "isStack": false,
+              "stackLevel": "null"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orderCode": "2",
+      "unloadingSequence": 2,
+      "goodList": [
+        {
+          "materialCode": "CG0LL9006",
+          "setCode": "",
+          "qty": 16,
+          "length": 660.0,
+          "width": 580.0,
+          "height": 1060.0,
+          "weight": 0.405768,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "AAAD79E07",
+          "setCode": "",
+          "qty": 2,
+          "length": 380.0,
+          "width": 940.0,
+          "height": 280.0,
+          "weight": 0.100016,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLZ006",
+          "setCode": "",
+          "qty": 2,
+          "length": 580.0,
+          "width": 590.0,
+          "height": 1000.0,
+          "weight": 0.3422,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "B70U01E1G",
+          "setCode": "",
+          "qty": 19,
+          "length": 740.0,
+          "width": 900.0,
+          "height": 1910.0,
+          "weight": 1.27206,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "AL00MV007",
+          "setCode": "",
+          "qty": 5,
+          "length": 810.0,
+          "width": 350.0,
+          "height": 590.0,
+          "weight": 0.167265,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 8,
+              "isStack": true,
+              "stackLevel": 6
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 8,
+              "isStack": true,
+              "stackLevel": 6
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ000N003",
+          "setCode": "",
+          "qty": 11,
+          "length": 740.0,
+          "width": 900.0,
+          "height": 1910.0,
+          "weight": 1.27206,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ000J002",
+          "setCode": "",
+          "qty": 1,
+          "length": 580.0,
+          "width": 700.0,
+          "height": 1310.0,
+          "weight": 0.53186,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "5",
+              "isBear": false,
+              "bearLevel": "null",
+              "isStack": false,
+              "stackLevel": "null"
+            }
+          ]
+        },
+        {
+          "materialCode": "AL00M900P",
+          "setCode": "",
+          "qty": 19,
+          "length": 300.0,
+          "width": 990.0,
+          "height": 400.0,
+          "weight": 0.1188,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            }
+          ]
+        },
+        {
+          "materialCode": "TD0028160",
+          "setCode": "",
+          "qty": 2,
+          "length": 280.0,
+          "width": 380.0,
+          "height": 490.0,
+          "weight": 0.052136,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "TD0028261",
+          "setCode": "",
+          "qty": 16,
+          "length": 1700.0,
+          "width": 770.0,
+          "height": 860.0,
+          "weight": 1.12574,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 10,
+              "isStack": true,
+              "stackLevel": 3
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 10,
+              "isStack": true,
+              "stackLevel": 3
+            }
+          ]
+        },
+        {
+          "materialCode": "TD0028234",
+          "setCode": "",
+          "qty": 17,
+          "length": 380.0,
+          "width": 380.0,
+          "height": 470.0,
+          "weight": 0.067868,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 2,
+              "isStack": true,
+              "stackLevel": 10
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 2,
+              "isStack": true,
+              "stackLevel": 10
+            }
+          ]
+        },
+        {
+          "materialCode": "AL00M2005",
+          "setCode": "",
+          "qty": 3,
+          "length": 410.0,
+          "width": 950.0,
+          "height": 590.0,
+          "weight": 0.229805,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 8,
+              "isStack": true,
+              "stackLevel": 6
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 8,
+              "isStack": true,
+              "stackLevel": 6
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLB006",
+          "setCode": "",
+          "qty": 7,
+          "length": 630.0,
+          "width": 560.0,
+          "height": 1006.0,
+          "weight": 0.3549168,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ0001005",
+          "setCode": "",
+          "qty": 5,
+          "length": 780.0,
+          "width": 630.0,
+          "height": 1880.0,
+          "weight": 0.923832,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ000K004",
+          "setCode": "",
+          "qty": 8,
+          "length": 760.0,
+          "width": 590.0,
+          "height": 890.0,
+          "weight": 0.399076,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 10,
+              "isStack": true,
+              "stackLevel": 3
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 10,
+              "isStack": true,
+              "stackLevel": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orderCode": "3",
+      "unloadingSequence": 3,
+      "goodList": [
+        {
+          "materialCode": "CG0LLW001",
+          "setCode": "",
+          "qty": 9,
+          "length": 650.0,
+          "width": 680.0,
+          "height": 1100.0,
+          "weight": 0.4862,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ000K002",
+          "setCode": "",
+          "qty": 4,
+          "length": 650.0,
+          "width": 730.0,
+          "height": 1500.0,
+          "weight": 0.71175,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "5",
+              "isBear": false,
+              "bearLevel": "null",
+              "isStack": false,
+              "stackLevel": "null"
+            }
+          ]
+        },
+        {
+          "materialCode": "AL00M3004",
+          "setCode": "",
+          "qty": 11,
+          "length": 400.0,
+          "width": 950.0,
+          "height": 620.0,
+          "weight": 0.2356,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 8,
+              "isStack": true,
+              "stackLevel": 6
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 8,
+              "isStack": true,
+              "stackLevel": 6
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLU006",
+          "setCode": "",
+          "qty": 6,
+          "length": 610.0,
+          "width": 590.0,
+          "height": 1030.0,
+          "weight": 0.370697,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "BL06W0E8Z",
+          "setCode": "",
+          "qty": 18,
+          "length": 802.0,
+          "width": 683.0,
+          "height": 1825.0,
+          "weight": 0.99967295,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "AL00MG006",
+          "setCode": "",
+          "qty": 14,
+          "length": 280.0,
+          "width": 950.0,
+          "height": 350.0,
+          "weight": 0.0931,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LL0007",
+          "setCode": "",
+          "qty": 2,
+          "length": 680.0,
+          "width": 750.0,
+          "height": 940.0,
+          "weight": 0.4794,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ0002003",
+          "setCode": "",
+          "qty": 8,
+          "length": 760.0,
+          "width": 610.0,
+          "height": 1700.0,
+          "weight": 0.78812,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "5",
+              "isBear": false,
+              "bearLevel": "null",
+              "isStack": false,
+              "stackLevel": "null"
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLX004",
+          "setCode": "",
+          "qty": 15,
+          "length": 660.0,
+          "width": 590.0,
+          "height": 1050.0,
+          "weight": 0.40887,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "BH0330E8U",
+          "setCode": "",
+          "qty": 1,
+          "length": 720.0,
+          "width": 980.0,
+          "height": 1895.0,
+          "weight": 1.337112,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLA009",
+          "setCode": "",
+          "qty": 1,
+          "length": 675.0,
+          "width": 675.0,
+          "height": 920.0,
+          "weight": 0.419175,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            }
+          ]
+        },
+        {
+          "materialCode": "AL00MG006",
+          "setCode": "",
+          "qty": 14,
+          "length": 280.0,
+          "width": 950.0,
+          "height": 350.0,
+          "weight": 0.0931,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ000N003",
+          "setCode": "",
+          "qty": 18,
+          "length": 740.0,
+          "width": 900.0,
+          "height": 1910.0,
+          "weight": 1.27206,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LL2003",
+          "setCode": "",
+          "qty": 2,
+          "length": 690.0,
+          "width": 590.0,
+          "height": 990.0,
+          "weight": 0.403029,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "AAA2HQE2U",
+          "setCode": "",
+          "qty": 17,
+          "length": 340.0,
+          "width": 1200.0,
+          "height": 420.0,
+          "weight": 0.17136,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 3,
+              "isStack": true,
+              "stackLevel": 1
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 3,
+              "isStack": true,
+              "stackLevel": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orderCode": "4",
+      "unloadingSequence": 4,
+      "goodList": [
+        {
+          "materialCode": "TD0028159",
+          "setCode": "",
+          "qty": 8,
+          "length": 380.0,
+          "width": 490.0,
+          "height": 295.0,
+          "weight": 0.054929,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 2,
+              "isStack": true,
+              "stackLevel": 10
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 2,
+              "isStack": true,
+              "stackLevel": 10
+            }
+          ]
+        },
+        {
+          "materialCode": "TD0031155",
+          "setCode": "",
+          "qty": 6,
+          "length": 350.0,
+          "width": 350.0,
+          "height": 350.0,
+          "weight": 0.042875,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 1,
+              "isStack": true,
+              "stackLevel": 10
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 1,
+              "isStack": true,
+              "stackLevel": 10
+            }
+          ]
+        },
+        {
+          "materialCode": "AL00M5005",
+          "setCode": "",
+          "qty": 11,
+          "length": 280.0,
+          "width": 950.0,
+          "height": 350.0,
+          "weight": 0.0931,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            }
+          ]
+        },
+        {
+          "materialCode": "BQ000S002",
+          "setCode": "",
+          "qty": 19,
+          "length": 650.0,
+          "width": 770.0,
+          "height": 1730.0,
+          "weight": 0.865865,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "5",
+              "isBear": false,
+              "bearLevel": "null",
+              "isStack": false,
+              "stackLevel": "null"
+            }
+          ]
+        },
+        {
+          "materialCode": "AAA350E2W",
+          "setCode": "",
+          "qty": 10,
+          "length": 410.0,
+          "width": 940.0,
+          "height": 760.0,
+          "weight": 0.292904,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LLN009",
+          "setCode": "",
+          "qty": 16,
+          "length": 680.0,
+          "width": 675.0,
+          "height": 920.0,
+          "weight": 0.42228,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 9,
+              "isStack": true,
+              "stackLevel": 3
+            }
+          ]
+        },
+        {
+          "materialCode": "CG0LL6002",
+          "setCode": "",
+          "qty": 8,
+          "length": 650.0,
+          "width": 680.0,
+          "height": 1100.0,
+          "weight": 0.4862,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 7,
+              "isStack": true,
+              "stackLevel": 2
+            }
+          ]
+        },
+        {
+          "materialCode": "AAANZ3U09",
+          "setCode": "",
+          "qty": 3,
+          "length": 270.0,
+          "width": 910.0,
+          "height": 350.0,
+          "weight": 0.085995,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 4,
+              "isStack": true,
+              "stackLevel": 9
+            }
+          ]
+        },
+        {
+          "materialCode": "AAA1W0E4U",
+          "setCode": "",
+          "qty": 8,
+          "length": 850.0,
+          "width": 850.0,
+          "height": 330.0,
+          "weight": 0.238425,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 11,
+              "isStack": true,
+              "stackLevel": 1
+            }
+          ]
+        },
+        {
+          "materialCode": "AA9FJQE08",
+          "setCode": "",
+          "qty": 20,
+          "length": 280.0,
+          "width": 950.0,
+          "height": 360.0,
+          "weight": 0.09576,
+          "restrictionList": [
+            {
+              "flag": "1",
+              "isBear": true,
+              "bearLevel": 3,
+              "isStack": true,
+              "stackLevel": 1
+            },
+            {
+              "flag": "2",
+              "isBear": true,
+              "bearLevel": 3,
+              "isStack": true,
+              "stackLevel": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "vehicleModelList": [
+    {
+      "modelCode": "B0001",
+      "qty": 100,
+      "cubic": 9.0848,
+      "weight": 1250.0,
+      "length": 3200.0,
+      "width": 1700.0,
+      "height": 1670.0
+    },
+    {
+      "modelCode": "B0004",
+      "qty": 3,
+      "cubic": 35.2408,
+      "weight": 5000.0,
+      "length": 6200.0,
+      "width": 2320.0,
+      "height": 2450.0
+    },
+    {
+      "modelCode": "B0007",
+      "qty": 1,
+      "cubic": 47.61,
+      "weight": 11000.0,
+      "length": 9000.0,
+      "width": 2300.0,
+      "height": 2300.0
+    },
+    {
+      "modelCode": "B0002",
+      "qty": 1,
+      "cubic": 14.197008,
+      "weight": 2500.0,
+      "length": 4340.0,
+      "width": 1740.0,
+      "height": 1880.0
+    },
+    {
+      "modelCode": "B0005",
+      "qty": 4,
+      "cubic": 35.604,
+      "weight": 8000.0,
+      "length": 7200.0,
+      "width": 2300.0,
+      "height": 2150.0
+    },
+    {
+      "modelCode": "B0009",
+      "qty": 4,
+      "cubic": 66.0491,
+      "weight": 20000.0,
+      "length": 11960.0,
+      "width": 2350.0,
+      "height": 2350.0
+    },
+    {
+      "modelCode": "B0006",
+      "qty": 1,
+      "cubic": 45.494,
+      "weight": 10000.0,
+      "length": 8600.0,
+      "width": 2300.0,
+      "height": 2300.0
+    },
+    {
+      "modelCode": "B0008",
+      "qty": 1,
+      "cubic": 49.197,
+      "weight": 12000.0,
+      "length": 9300.0,
+      "width": 2300.0,
+      "height": 2300.0
+    },
+    {
+      "modelCode": "B0003",
+      "qty": 1,
+      "cubic": 24.816141,
+      "weight": 3500.0,
+      "length": 5780.0,
+      "width": 2115.0,
+      "height": 2030.0
+    }
+  ]
+}
